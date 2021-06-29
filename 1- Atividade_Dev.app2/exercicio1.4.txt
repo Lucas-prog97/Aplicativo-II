@@ -1,0 +1,9 @@
+void main() {
+  double base= 10;
+  double altura = 20;
+  double calculo = base*altura;
+  
+  print("Altura do quadrado é: $altura" +"\n"+
+   "Base é: $base" + "\n"
+   "Área do quadrado é : $calculo");
+}

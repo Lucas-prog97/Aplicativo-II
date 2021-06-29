@@ -1,0 +1,9 @@
+void main() {
+  int valor = 20;
+  int engreco_amigos = valor *4;
+  
+  
+  print ("Boa noite caro cliente! " +"\n"
+        "O valor do ingresso único é de: $valor" + "\n"
+        "O valor da compra de 4 ingressos é: $engreco_amigos");
+}

@@ -1,0 +1,9 @@
+void main() {
+  String nome1 = "lucas pacheco" ;
+  String idade =  "20" ;
+  String endereco = "rua moisés velhinho, 12";
+  
+  print ("Nome: "+ nome1 + "\n" +
+         "Idade: "+ idade + "\n" +
+         "Endereço: "+ endereco);
+}

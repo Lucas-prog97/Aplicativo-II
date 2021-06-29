@@ -1,0 +1,12 @@
+void main() {
+  String nome1 = "Lucas";
+  String nome2 = "José";
+  
+  
+  if(nome1 != nome2){
+  print("Os nomes são diferentes");
+  }
+  else{
+  print("Os nomes são iguais");}
+
+}
